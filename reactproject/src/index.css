@@ -1,0 +1,9 @@
+.mb20{
+    margin-bottom: 20px;
+}
+.list-group li{
+    cursor: pointer;
+}
+.border-start {
+    border-left: 1px solid #dbdbdb;
+}
